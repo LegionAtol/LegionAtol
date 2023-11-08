@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessioparato/){:target="blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessioparato/){:target="_blank"}
 
 <br>
 
-<a href="https://www.linkedin.com/in/alessioparato/" target="blank">
+<a href="https://www.linkedin.com/in/alessioparato/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 
 
 <br>
