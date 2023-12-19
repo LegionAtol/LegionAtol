@@ -5,9 +5,9 @@
 </h3>
 
 - 📫 How to reach me: 👆
-- 🔭 I’m currently working on -> Finish the master's degree as soon as possible 😅
 - 🌱 I’m currently learning -> Deep learning & Machine learning
-- ⚡️ Fun fact: Have you ever danced bachata? It's really relaxing and fun!
+- 🔭 I’m currently working on -> Finish my master's degree
+- ⚡️ Fun fact: Have you ever danced bachata? It's really fun!
 
 
 
