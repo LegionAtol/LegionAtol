@@ -6,7 +6,6 @@
 
 - 📫 How to reach me: 👆
 - 🌱 I’m currently learning -> Deep learning & Machine learning
-- 🔭 I’m currently working on -> Finish my master's degree
 - ⚡️ Fun fact: Have you ever danced bachata? It's really fun!
 
 
